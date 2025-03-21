@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Web designing progects
 - 📫 To reach me DM me in discord
 - DISCORD = _pheonix5128
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I dont use Instagram or telegram
 
 <!---
 PHEONIX5128/PHEONIX5128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
