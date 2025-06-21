@@ -1,11 +1,11 @@
 <!-- Banner or background-style image -->
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" width="100%" />
+  <img src="https://i.postimg.cc/wBS99Bzh/Pheonix-Banner.png" width="100%" />
 </p>
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://postimg.cc/ykBGYwdX" width="150px" />
+  <img src="https://i.postimg.cc/xTbVgQV7/Pheonix-PNG.png" width="150px" />
 </p>
 
 <h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
