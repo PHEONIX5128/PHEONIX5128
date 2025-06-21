@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PHOENIX5128/PHOENIX5128/main/phoenix_logo.png" width="150px" />
+  <img src="https://postimg.cc/ykBGYwdX" width="150px" />
 </p>
 
 <h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
