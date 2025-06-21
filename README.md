@@ -1,5 +1,15 @@
-<h1 align="center">🔥 Hi, I'm PHOENIX5128 🔥</h1>
-<p align="center">Web Designer • Game Dev Learner • Creative Mind • Anime Fanatic 🌀</p>
+<!-- Banner or background-style image -->
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" width="100%" />
+</p>
+
+<!-- Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PHOENIX5128/PHOENIX5128/main/phoenix_logo.png" width="150px" />
+</p>
+
+<h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
+<p align="center"><b>Web Designer • Game Dev Learner • Creative Mind • Anime Fanatic 🌀</b></p>
 
 ---
 
@@ -17,54 +27,44 @@
 #### 🌐 Web Development Projects
 
 1. 🎯 **Spin Wheel, Redeem Code, Leaderboard, Economy & Withdrawal System**  
-   - 🔗 **Live at:** [Desigamblers.in](https://desigamblers.in)  
-   - 💡 Built interactive game-like features for a full-stack platform.
+   🔗 [Desigamblers.in](https://desigamblers.in)  
+   ✨ Built interactive game-like features for a full-stack platform.
 
 2. 🏆 **HomeyRewards — Full Website from Scratch**  
-   - 🔗 **Live at:** [homeyrewards.pro](https://homeyrewards.pro)  
-   - 🛠️ Designed and developed the full frontend + integrated backend systems.
+   🔗 [homeyrewards.pro](https://homeyrewards.pro)  
+   🛠️ Designed and developed the full frontend + backend systems.
 
 ---
 
 #### 🤖 Discord Bot Project
 
 3. 🧙‍♂️ **AnimeSensei Bot — The Ultimate Anime Battle Bot**  
-   - 🚀 Features:  
-     - 🎴 Summon 1000+ anime characters by rarity  
-     - ⚔️ Turn-based battles like Pokétwo (DM-based move selection system)  
-     - 🧠 Advanced battle logic: ATK/DEF/SPD, status effects, and special moves  
-     - 🏆 Catching, training, EXP, and rank-ups (Genin Naruto → Chunin Naruto)  
-     - 💼 Organized in modular cogs: UI, logic, and setup separated for scaling  
-   - 🛠️ Built using: `Python`, `discord.py`, `MongoDB`, `JSON`, `Embed UI`  
-   - 👀 Soon to have a web dashboard, leaderboard, and real-time battles  
-   - 📌 **Status:** In active dev — stay tuned!
+   🚀 Features:
+   - 🎴 1000+ summonable anime characters  
+   - ⚔️ Turn-based battles (Pokétwo-style)  
+   - 🧠 Custom logic, status effects, and evolution (Genin → Chunin)
+   - 🌐 MongoDB, JSON, discord.py powered  
+   📌 **Status:** Actively being developed!
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+### 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ai,github,vscode,python,mongodb" />
 </p>
 
-> 🖌️ Reppin' **Adobe Illustrator** for UI design and creativity
-
 ---
 
-### 📫 Let's Connect!
+### 📫 Contact Me
 
-- 📧 Discord: `__phoenix5128`
-- 💬 Always open to collabs, ideas, feedback, and anime rants 😎
+- 💬 Discord: `__phoenix5128`
+- 💡 Let’s collab, brainstorm, and build cool anime-inspired dev stuff!
 
 ---
 
 ### ⚡ Fun Fact
 
-> "I turn pixels into experiences and coffee into code ☕🖥️"
+> *“I turn pixels into experiences and coffee into code ☕🖥️”*
 
 ---
-
-<!-- 
-PHOENIX5128/PHOENIX5128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can customize this section however you want!
--->
