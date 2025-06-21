@@ -3,11 +3,6 @@
   <img src="https://i.postimg.cc/hjszvxtk/PHEONIXBANNEr.png" width="100%" />
 </p>
 
-<!-- Logo -->
-<p align="center">
-  <img src="https://i.postimg.cc/4dx480X0/Pheonix-1-removebg-preview.png" width="150px" />
-</p>
-
 <h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
 <p align="center"><b>Web Designer • Game Dev Learner • Creative Mind • Anime Fanatic 🌀</b></p>
 
