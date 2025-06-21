@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://i.postimg.cc/xTbVgQV7/Pheonix-PNG.png" width="150px" />
+  <img src="https://i.postimg.cc/hjszvxtk/PHEONIXBANNEr.png" width="100%" />
 </p>
 
 <h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
