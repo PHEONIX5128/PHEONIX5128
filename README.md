@@ -3,15 +3,14 @@
   <img src="https://i.postimg.cc/hjszvxtk/PHEONIXBANNEr.png" width="100%" />
 </p>
 
-<h1 align="center">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
-<p align="center"><b>Web Designer • Game Dev Learner • Creative Mind • Anime Fanatic 🌀</b></p>
+<h1 align="center" style="color:#FF4500;">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
+<p align="center"><b>Web Designer • Creative Mind • Anime Fanatic 🌀</b></p>
 
 ---
 
-### 💻 About Me
+### 🔥 About Me
 
 - 🎨 Passionate about **Web Designing**  
-- 🎮 Currently diving into **Game Map Designing**  
 - 🤝 Always up to **collaborate on exciting design projects**  
 - 🌐 Exploring the infinite world of **UI/UX & front-end magic**
 
@@ -37,8 +36,8 @@
    🚀 Features:
    - 🎴 1000+ summonable anime characters  
    - ⚔️ Turn-based battles (Pokétwo-style)  
-   - 🧠 Custom logic, status effects, and evolution (Genin → Chunin)
-   - 🌐 MongoDB, JSON, discord.py powered  
+   - 🧠 Custom logic, status effects, and evolution (Genin → Chunin)  
+   - 🧩 MongoDB, JSON, discord.py powered  
    📌 **Status:** Actively being developed!
 
 ---
@@ -46,15 +45,15 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ai,github,vscode,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ai,firebase,python,mongodb,replit,github,vscode" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 💬 Discord: `__phoenix5128`
-- 💡 Let’s collab, brainstorm, and build cool anime-inspired dev stuff!
+- 💬 Discord: `__phoenix5128`  
+- 🧠 Let’s collab, brainstorm, and build cool anime-inspired dev stuff!
 
 ---
 
