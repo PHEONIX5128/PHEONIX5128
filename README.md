@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/hjszvxtk/PHEONIXBANNEr.png" width="100%" />
 </p>
 
-<h1 align="center" style="color:#FF4500;">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
+<h1 align="center" style="color:orange;">🔥 Hi, I'm <span style="color:#FF4500;">PHOENIX5128</span> 🔥</h1>
 <p align="center"><b>Web Designer • Creative Mind • Anime Fanatic 🌀</b></p>
 
 ---
